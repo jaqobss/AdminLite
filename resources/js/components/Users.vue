@@ -2,8 +2,8 @@
     <div class="container">
        <div class="row mt-5">
           <div class="col-md-12">
-            <div class="card">
-              <div class="card-header">
+            <div class="card big man">
+            omegalul
                 <h3 class="card-title">Users List</h3>
     
                 <div class="card-tools">
